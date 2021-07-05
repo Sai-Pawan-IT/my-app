@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "myappcd2ce0da": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "VideoApp": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
