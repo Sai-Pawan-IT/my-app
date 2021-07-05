@@ -60,13 +60,13 @@ const App = () => {
       />
       <div className='header'>
         <h2>
-          <a href='/'>Online Files Uploader</a>
+          <a href='/'>Online Cloud Storage</a>
         </h2>
       </div>
       <div className='video-uploader'>
         <form onSubmit={(e) => onSubmit(e)}>
           <p>
-            <label className='select-label'>Select video: </label>
+            <label className='select-label'>Select File: </label>
           </p>
           <p>
             <input
