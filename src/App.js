@@ -60,7 +60,7 @@ const App = () => {
       />
       <div className='header'>
         <h2>
-          <a href='/'>Online File Uploader</a>
+          <a href='/'>Online Files Uploader</a>
         </h2>
       </div>
       <div className='video-uploader'>
